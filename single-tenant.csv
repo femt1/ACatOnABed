@@ -1,0 +1,241 @@
+JVM,Mean,error,benchmark,Mode,GC,status
+JDKP,0.341667,0.055147,avrora,CatNap,Balanced,best
+JDKA,0.589008,0.060786,avrora,CatNap,Balanced,worst
+Original,0.681244,0.042143,avrora,CatNap,Balanced,original
+JDKD,-0.414432,0.012178,avrora,CatNap,Gencon,best
+JDKA,-0.144058,0.012074,avrora,CatNap,Gencon,worst
+Original,0.049939,0.011955,avrora,CatNap,Gencon,original
+JDKP,-0.16703,0.015292,avrora,CatNap,OptAvgPause,best
+JDKB,-0.038116,0.015031,avrora,CatNap,OptAvgPause,worst
+Original,0.245935,0.014648,avrora,CatNap,OptAvgPause,original
+JDKD,-0.314336,0.023179,avrora,CatNap,Optthruput,best
+JDKA,-0.228817,0.019188,avrora,CatNap,Optthruput,worst
+Original,0.015228,0.017083,avrora,CatNap,Optthruput,original
+JDKD,-0.388981,0.011974,jython,CatNap,Balanced,best
+JDKB,-0.115045,0.012524,jython,CatNap,Balanced,worst
+Original,0.096235,0.011748,jython,CatNap,Balanced,original
+JDKP,-0.441304,0.020201,jython,CatNap,Gencon,best
+JDKA,-0.348697,0.025621,jython,CatNap,Gencon,worst
+Original,-0.32655,0.017189,jython,CatNap,Gencon,original
+JDKR,-0.374452,0.01972,jython,CatNap,OptAvgPause,best
+Original,-0.336698,0.014937,jython,CatNap,OptAvgPause,original
+JDKA,-0.309339,0.021989,jython,CatNap,OptAvgPause,worst
+JDKD,-0.287554,0.01653,jython,CatNap,Optthruput,best
+JDKB,-0.069334,0.015679,jython,CatNap,Optthruput,worst
+Original,0.1028,0.014198,jython,CatNap,Optthruput,original
+JDKD,-0.312348,0.023851,pmd,CatNap,Balanced,best
+JDKR,-0.272091,0.019237,pmd,CatNap,Balanced,worst
+Original,-0.010466,0.017328,pmd,CatNap,Balanced,original
+JDKD,-0.483638,0.030558,pmd,CatNap,Gencon,best
+JDKA,-0.423686,0.022148,pmd,CatNap,Gencon,worst
+Original,-0.40357,0.014991,pmd,CatNap,Gencon,original
+JDKD,-0.302521,0.015486,pmd,CatNap,OptAvgPause,best
+JDKB,-0.038633,0.0151565,pmd,CatNap,OptAvgPause,worst
+Original,0.246763,0.014811,pmd,CatNap,OptAvgPause,original
+JDKD,-0.506923,0.085514,pmd,CatNap,Optthruput,best
+JDKB,-0.473846,0.082962,pmd,CatNap,Optthruput,worst
+Original,0.083705,0.100162,pmd,CatNap,Optthruput,original
+JDKD,-0.342753,0.019363,sunflow,CatNap,Balanced,best
+JDKB,-0.131679,0.017056,sunflow,CatNap,Balanced,worst
+Original,0.161022,0.016575,sunflow,CatNap,Balanced,original
+JDKD,-0.428077,0.015088,sunflow,CatNap,Gencon,best
+JDKA,-0.196955,0.014608,sunflow,CatNap,Gencon,worst
+Original,0.101651,0.014564,sunflow,CatNap,Gencon,original
+JDKD,-0.355521,0.020398,sunflow,CatNap,OptAvgPause,best
+JDKP,-0.259041,0.017902,sunflow,CatNap,OptAvgPause,worst
+Original,0.092066,0.017002,sunflow,CatNap,OptAvgPause,original
+JDKP,-0.157935,0.015616,sunflow,CatNap,Optthruput,best
+JDKB,-0.032618,0.016284,sunflow,CatNap,Optthruput,worst
+Original,0.250318,0.014928,sunflow,CatNap,Optthruput,original
+JDKP,0.388844,0.066905,xalan,CatNap,Balanced,best
+JDKA,0.566156,0.076611,xalan,CatNap,Balanced,worst
+Original,0.803524,0.052785,xalan,CatNap,Balanced,original
+JDKD,-0.380174,0.012904,xalan,CatNap,Gencon,best
+JDKB,-0.104439,0.01315,xalan,CatNap,Gencon,worst
+Original,0.124996,0.012676,xalan,CatNap,Gencon,original
+JDKD,-0.357417,0.017365,xalan,CatNap,OptAvgPause,best
+JDKB,-0.096711,0.016384,xalan,CatNap,OptAvgPause,worst
+Original,0.269023,0.016439,xalan,CatNap,OptAvgPause,original
+JDKP,-0.281493,0.018688,xalan,CatNap,Optthruput,best
+JDKB,-0.21256,0.018733,xalan,CatNap,Optthruput,worst
+Original,-0.010872,0.017605,xalan,CatNap,Optthruput,original
+JDK2-2-1,0.233435,0.039765,avrora,CatsMeow,Balanced,best
+Original,0.681244,0.042143,avrora,CatsMeow,Balanced,original
+JDK2-2-2,0.818831,0.046316,avrora,CatsMeow,Balanced,worst
+JDK2-2-1,-0.391854,0.007593,avrora,CatsMeow,Gencon,best
+JDK2-2-2,-0.273733,0.008048,avrora,CatsMeow,Gencon,worst
+Original,0.049939,0.011955,avrora,CatsMeow,Gencon,original
+JDK2-2-1,-0.309031,0.009445,avrora,CatsMeow,OptAvgPause,best
+JDK2-2-2,-0.168097,0.010109,avrora,CatsMeow,OptAvgPause,worst
+Original,0.245935,0.014648,avrora,CatsMeow,OptAvgPause,original
+JDK2-2-1,-0.390408,0.012519,avrora,CatsMeow,Optthruput,best
+JDK2-2-2,-0.232568,0.014401,avrora,CatsMeow,Optthruput,worst
+Original,0.015228,0.017083,avrora,CatsMeow,Optthruput,original
+JDK2-2-1,-0.326579,0.00803,jython,CatsMeow,Balanced,best
+JDK3-2-3,-0.217012,0.008344,jython,CatsMeow,Balanced,worst
+Original,0.096235,0.011748,jython,CatsMeow,Balanced,original
+JDK2-2-1,-0.454041,0.018227,jython,CatsMeow,Gencon,best
+Original,-0.32655,0.017189,jython,CatsMeow,Gencon,original
+JDK2-2-2,-0.241393,0.022102,jython,CatsMeow,Gencon,worst
+JDK2-2-1,-0.435188,0.013863,jython,CatsMeow,OptAvgPause,best
+Original,-0.336698,0.014937,jython,CatsMeow,OptAvgPause,original
+JDK2-2-2,-0.300098,0.016338,jython,CatsMeow,OptAvgPause,worst
+JDK2-2-1,-0.321903,0.009873,jython,CatsMeow,Optthruput,best
+JDK2-2-2,-0.195994,0.010558,jython,CatsMeow,Optthruput,worst
+Original,0.1028,0.014198,jython,CatsMeow,Optthruput,original
+JDK2-2-1,-0.393714,0.012799,pmd,CatsMeow,Balanced,best
+JDK2-2-2,-0.231444,0.014732,pmd,CatsMeow,Balanced,worst
+Original,-0.010466,0.017328,pmd,CatsMeow,Balanced,original
+JDK2-2-1,-0.517495,0.015626,pmd,CatsMeow,Gencon,best
+Original,-0.40357,0.014991,pmd,CatsMeow,Gencon,original
+JDK2-2-2,-0.338919,0.018911,pmd,CatsMeow,Gencon,worst
+JDK2-2-1,-0.311792,0.009531,pmd,CatsMeow,OptAvgPause,best
+JDK2-2-2,-0.178207,0.010145,pmd,CatsMeow,OptAvgPause,worst
+Original,0.246763,0.014811,pmd,CatsMeow,OptAvgPause,original
+JDK2-2-2,-0.747938,0.055676,pmd,CatsMeow,Optthruput,best
+JDK5-4-4,-0.126289,0.09147,pmd,CatsMeow,Optthruput,worst
+Original,0.083705,0.100162,pmd,CatsMeow,Optthruput,original
+JDK3-2-1,-0.273596,0.013002,sunflow,CatsMeow,Balanced,best
+JDK2-2-2,-0.077686,0.014077,sunflow,CatsMeow,Balanced,worst
+Original,0.161022,0.016575,sunflow,CatsMeow,Balanced,original
+JDK2-2-1,-0.349454,0.0103,sunflow,CatsMeow,Gencon,best
+JDK2-2-2,-0.173258,0.011153,sunflow,CatsMeow,Gencon,worst
+Original,0.101651,0.014564,sunflow,CatsMeow,Gencon,original
+JDK2-2-1,-0.33326,0.012297,sunflow,CatsMeow,OptAvgPause,best
+JDK2-2-2,-0.16961,0.013877,sunflow,CatsMeow,OptAvgPause,worst
+Original,0.092066,0.017002,sunflow,CatsMeow,OptAvgPause,original
+JDK2-2-1,-0.311143,0.009601,sunflow,CatsMeow,Optthruput,best
+JDK2-2-2,-0.160805,0.010312,sunflow,CatsMeow,Optthruput,worst
+Original,0.250318,0.014928,sunflow,CatsMeow,Optthruput,original
+JDK2-2-1,0.147537,0.049831,xalan,CatsMeow,Balanced,best
+Original,0.803524,0.052785,xalan,CatsMeow,Balanced,original
+JDK2-2-2,0.934866,0.061041,xalan,CatsMeow,Balanced,worst
+JDK2-2-1,-0.349445,0.008089,xalan,CatsMeow,Gencon,best
+JDK2-2-2,-0.217637,0.00854,xalan,CatsMeow,Gencon,worst
+Original,0.124996,0.012676,xalan,CatsMeow,Gencon,original
+JDK2-2-1,-0.265115,0.012021,xalan,CatsMeow,OptAvgPause,best
+JDK2-2-2,-0.053494,0.0129,xalan,CatsMeow,OptAvgPause,worst
+Original,0.269023,0.016439,xalan,CatsMeow,OptAvgPause,original
+JDK2-2-1,-0.416358,0.012731,xalan,CatsMeow,Optthruput,best
+JDK2-2-2,-0.257771,0.014733,xalan,CatsMeow,Optthruput,worst
+Original,-0.010872,0.017605,xalan,CatsMeow,Optthruput,original
+JDK0.5-1-1.5,0.279703,0.056835,avrora,Circling,Balanced,best
+JDK0.5-1-0.5,0.379078,0.056282,avrora,Circling,Balanced,worst
+Original,0.681244,0.042143,avrora,Circling,Balanced,original
+JDK1-1-0.5,-0.511235,0.011072,avrora,Circling,Gencon,worst
+JDK0.5-1-0.5,-0.460322,0.013519,avrora,Circling,Gencon,best
+Original,0.049939,0.011955,avrora,Circling,Gencon,original
+JDK1-1-0.5,-0.411073,0.016433,avrora,Circling,OptAvgPause,best
+JDK0.5-1-0.5,-0.326031,0.020611,avrora,Circling,OptAvgPause,worst
+Original,0.245935,0.014648,avrora,Circling,OptAvgPause,original
+JDK1-1-0.5,-0.440741,0.019309,avrora,Circling,Optthruput,best
+JDK0.5-0.5-1,-0.355686,0.023875,avrora,Circling,Optthruput,worst
+Original,0.015228,0.017083,avrora,Circling,Optthruput,original
+JDK1-1-0.5,-0.431034,0.012092,jython,Circling,Balanced,best
+JDK0.5-1-0.5,-0.346548,0.014759,jython,Circling,Balanced,worst
+Original,0.096235,0.011748,jython,Circling,Balanced,original
+JDK1-1-0.5,-0.449497,0.02112,jython,Circling,Gencon,best
+JDK0.5-1-0.5,-0.333235,0.029788,jython,Circling,Gencon,worst
+Original,-0.32655,0.017189,jython,Circling,Gencon,original
+JDK1-1-0.5,-0.477647,0.019192,jython,Circling,OptAvgPause,best
+JDK0.5-1-0.5,-0.394787,0.025634,jython,Circling,OptAvgPause,worst
+Original,-0.336698,0.014937,jython,Circling,OptAvgPause,original
+JDK1-1-0.5,-0.409595,0.016777,jython,Circling,Optthruput,best
+JDK0.5-1-0.5,-0.326106,0.02101,jython,Circling,Optthruput,worst
+Original,0.1028,0.014198,jython,Circling,Optthruput,original
+JDK1-1-0.5,-0.43956,0.019531,pmd,Circling,Balanced,best
+JDK0.5-0.5-1,-0.35369,0.024182,pmd,Circling,Balanced,worst
+Original,-0.010466,0.017328,pmd,Circling,Balanced,original
+JDK1-1-0.5,-0.503844,0.018384,pmd,Circling,Gencon,best
+JDK0.5-1-0.5,-0.413709,0.025545,pmd,Circling,Gencon,worst
+Original,-0.40357,0.014991,pmd,Circling,Gencon,original
+JDK1-1-0.5,-0.410158,0.016557,pmd,Circling,OptAvgPause,best
+JDK0.5-1-0.5,-0.323395,0.020792,pmd,Circling,OptAvgPause,worst
+Original,0.246763,0.014811,pmd,Circling,OptAvgPause,original
+JDK1-1-0.5,-0.598485,0.073485,pmd,Circling,Optthruput,best
+JDK0.5-0.5-1,-0.205303,0.176605,pmd,Circling,Optthruput,worst
+Original,0.083705,0.100162,pmd,Circling,Optthruput,original
+JDK1-1-0.5,-0.323374,0.020621,sunflow,Circling,Balanced,best
+JDK0.5-1-0.5,-0.226298,0.026195,sunflow,Circling,Balanced,worst
+Original,0.161022,0.016575,sunflow,Circling,Balanced,original
+JDK1-1-0.5,-0.427453,0.016391,sunflow,Circling,Gencon,best
+JDK0.5-1-0.5,-0.337526,0.020985,sunflow,Circling,Gencon,worst
+Original,0.101651,0.014564,sunflow,Circling,Gencon,original
+JDK1-1-0.5,-0.441443,0.019127,sunflow,Circling,OptAvgPause,best
+JDK0.5-0.5-1,-0.355793,0.023676,sunflow,Circling,OptAvgPause,worst
+Original,0.092066,0.017002,sunflow,Circling,OptAvgPause,original
+JDK1-1-0.5,-0.408636,0.01669,sunflow,Circling,Optthruput,best
+JDK0.5-1-0.5,-0.320686,0.020976,sunflow,Circling,Optthruput,worst
+Original,0.250318,0.014928,sunflow,Circling,Optthruput,original
+JDK0.5-1-0.5,0.408776,0.068747,xalan,Circling,Balanced,best
+JDK1-1-1,0.664674,0.079798,xalan,Circling,Balanced,worst
+Original,0.803524,0.052785,xalan,Circling,Balanced,original
+JDK1-1-0.5,-0.467826,0.012059,xalan,Circling,Gencon,best
+JDK0.5-1-0.5,-0.404506,0.01486,xalan,Circling,Gencon,worst
+Original,0.124996,0.012676,xalan,Circling,Gencon,original
+JDK1-1-0.5,-0.312833,0.020676,xalan,Circling,OptAvgPause,best
+JDK0.5-1-0.5,-0.199001,0.02661,xalan,Circling,OptAvgPause,worst
+Original,0.269023,0.016439,xalan,Circling,OptAvgPause,original
+JDK1-1-0.5,-0.4521,0.019522,xalan,Circling,Optthruput,best
+JDK0.5-0.5-1,-0.357404,0.025841,xalan,Circling,Optthruput,worst
+Original,-0.010872,0.017605,xalan,Circling,Optthruput,original
+Geometric mean,-0.190508356,0,avrora,CatNap,Gencon,geom
+Geometric mean,0.446643169,0,avrora,CatNap,Balanced,geom
+Geometric mean,-0.064767098,0,avrora,CatNap,OptAvgPause,geom
+Geometric mean,-0.195946942,0,avrora,CatNap,Optthruput,geom
+Geometric mean,-0.262623693,0,avrora,CatsMeow,Gencon,geom
+Geometric mean,0.519613822,0,avrora,CatsMeow,Balanced,geom
+Geometric mean,-0.149777354,0,avrora,CatsMeow,OptAvgPause,geom
+Geometric mean,-0.256482594,0,avrora,CatsMeow,Optthruput,geom
+Geometric mean,-0.388951233,0,avrora,Circling,Gencon,geom
+Geometric mean,0.417661918,0,avrora,Circling,Balanced,geom
+Geometric mean,-0.25052395,0,avrora,Circling,OptAvgPause,geom
+Geometric mean,-0.310268105,0,avrora,Circling,Optthruput,geom
+Geometric mean,-0.403593249,0,jython,CatNap,Gencon,geom
+Geometric mean,-0.15179809,0,jython,CatNap,Balanced,geom
+Geometric mean,-0.370303963,0,jython,CatNap,OptAvgPause,geom
+Geometric mean,-0.089806149,0,jython,CatNap,Optthruput,geom
+Geometric mean,-0.369017935,0,jython,CatsMeow,Gencon,geom
+Geometric mean,-0.209464791,0,jython,CatsMeow,Balanced,geom
+Geometric mean,-0.38237356,0,jython,CatsMeow,OptAvgPause,geom
+Geometric mean,-0.190121825,0,jython,CatsMeow,Optthruput,geom
+Geometric mean,-0.370365509,0,jython,Circling,Gencon,geom
+Geometric mean,-0.307402615,0,jython,Circling,Balanced,geom
+Geometric mean,-0.391674638,0,jython,Circling,OptAvgPause,geom
+Geometric mean,-0.259754371,0,jython,Circling,Optthruput,geom
+Geometric mean,-0.471540068,0,pmd,CatNap,Gencon,geom
+Geometric mean,-0.20565511,0,pmd,CatNap,Balanced,geom
+Geometric mean,-0.064431087,0,pmd,CatNap,OptAvgPause,geom
+Geometric mean,-0.323742268,0,pmd,CatNap,Optthruput,geom
+Geometric mean,-0.444901199,0,pmd,CatsMeow,Gencon,geom
+Geometric mean,-0.266346322,0,pmd,CatsMeow,Balanced,geom
+Geometric mean,-0.152423267,0,pmd,CatsMeow,OptAvgPause,geom
+Geometric mean,-0.32934487,0,pmd,CatsMeow,Optthruput,geom
+Geometric mean,-0.442423252,0,pmd,Circling,Gencon,geom
+Geometric mean,-0.311700229,0,pmd,Circling,Balanced,geom
+Geometric mean,-0.249079617,0,pmd,Circling,OptAvgPause,geom
+Geometric mean,-0.414521913,0,pmd,Circling,Optthruput,geom
+Geometric mean,-0.187503763,0,sunflow,CatNap,Gencon,geom
+Geometric mean,-0.142149088,0,sunflow,CatNap,Balanced,geom
+Geometric mean,-0.184147048,0,sunflow,CatNap,OptAvgPause,geom
+Geometric mean,-0.060701334,0,sunflow,CatNap,Optthruput,geom
+Geometric mean,-0.203442418,0,sunflow,CatsMeow,Gencon,geom
+Geometric mean,-0.128210346,0,sunflow,CatsMeow,Balanced,geom
+Geometric mean,-0.196555941,0,sunflow,CatsMeow,OptAvgPause,geom
+Geometric mean,-0.150840278,0,sunflow,CatsMeow,Optthruput,geom
+Geometric mean,-0.289677699,0,sunflow,Circling,Gencon,geom
+Geometric mean,-0.183634885,0,sunflow,Circling,Balanced,geom
+Geometric mean,-0.302681142,0,sunflow,Circling,OptAvgPause,geom
+Geometric mean,-0.247017258,0,sunflow,Circling,Optthruput,geom
+Geometric mean,-0.138175219,0,xalan,CatNap,Gencon,geom
+Geometric mean,0.49902818,0,xalan,CatNap,Balanced,geom
+Geometric mean,-0.090404521,0,xalan,CatNap,OptAvgPause,geom
+Geometric mean,-0.211204092,0,xalan,CatNap,Optthruput,geom
+Geometric mean,-0.210223961,0,xalan,CatsMeow,Gencon,geom
+Geometric mean,0.527213225,0,xalan,CatsMeow,Balanced,geom
+Geometric mean,-0.092296222,0,xalan,CatsMeow,OptAvgPause,geom
+Geometric mean,-0.287691843,0,xalan,CatsMeow,Optthruput,geom
+Geometric mean,-0.332799427,0,xalan,Circling,Gencon,geom
+Geometric mean,0.562892628,0,xalan,Circling,Balanced,geom
+Geometric mean,-0.148803647,0,xalan,Circling,OptAvgPause,geom
+Geometric mean,-0.320479728,0,xalan,Circling,Optthruput,geom
