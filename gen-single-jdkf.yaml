@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+        name: jdkf-full
+        labels:
+                app: version-1
+spec:
+        restartPolicy: Never 
+        containers:
+                - name: jdkf-01
+                  image: jdkfgen:v1
+                  imagePullPolicy: Never
+
+
