@@ -1,4 +1,4 @@
 Project authors:
-Elinor Tsen 
-Abigail Koay 
-Panos Patros
+Elinor Tsen (efmt1@students.waikato.ac.nz)
+Abigail Koay (abigail.koay@waikato.ac.nz)
+Panos Patros (panos.patros@waikato.ac.nz)
